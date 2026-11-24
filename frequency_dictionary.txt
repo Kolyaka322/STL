@@ -1,0 +1,20 @@
+Частотний словник слів:
+------------------------
+and : 2
+c : 2
+clean : 1
+containers : 1
+data : 1
+dictionary : 1
+help : 1
+keeps : 1
+keys : 1
+make : 1
+map : 2
+organize : 1
+sorted : 1
+stl : 2
+tasks : 1
+templates : 1
+
+Найбільш часто вживане слово: "and" (2)
